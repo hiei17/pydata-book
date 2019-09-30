@@ -1,3 +1,5 @@
+
+https://legacy.gitbook.com/download/pdf/book/wizardforcel/pyda-2e 下载pdf 中文版
 # Python for Data Analysis, 2nd Edition
 
 Materials and IPython notebooks for "Python for Data Analysis" by Wes McKinney,
